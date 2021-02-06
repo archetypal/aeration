@@ -1,1 +1,11 @@
+title: Aeration
+description: A framework for resource innovation and adoption.
 theme: jekyll-theme-hacker
+markdown: GFM
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true

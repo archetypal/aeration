@@ -2,6 +2,7 @@ title: Aeration
 description: A framework for resource innovation and adoption.
 #theme: jekyll-theme-midnight
 #theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
 markdown: GFM
 
 relative_links:

@@ -17,7 +17,8 @@
 
 permalink: pretty
 
-remote_theme: archetypal/just-the-docs@v0.4.0
+#remote_theme: archetypal/just-the-docs@v0.4.0
+remote_theme: archetypal/just-the-docs
 
 markdown: GFM
 

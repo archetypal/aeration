@@ -7,7 +7,7 @@ version: 0.0.1
 ---
 
 # Innovation Lifecycle
-*{{ page.content_type }} by {{ page.author }}*
+*{{ page.content_type }} by {{ page.author }}*  
 *[{{ page.maturity }}](lifecycle.md#{{ page.maturity }}) Version {{ page.version }}*
 
 ## Explore

@@ -1,14 +1,13 @@
 ---
 title: Innovation Lifecycle
 description: Words to describe the innovation lifecycle
-content_type: Information
 version: 0.0.1
 author: Sean Drucker
-type: Strawman
+maturity: Strawman
 ---
 
 # Innovation Lifecycle
-*Version 0.0.1 Information [Strawman](lifecycle.md) by Sean Drucker*
+*Version {{ page.version }}-{{ page.date }} [{{ page.maturity }}](lifecycle.md) by {{ page.author }}*
 
 ## Explore
 - Thematic Areas
@@ -55,5 +54,4 @@ type: Strawman
 
 
 # References
-
 - [Chick-fil-A Food Innovation](https://www.businessinsider.com/chick-fil-a-new-menu-items-2019-5#5-launchroll-out-and-stewardship-5)

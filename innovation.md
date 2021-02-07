@@ -31,6 +31,7 @@ version: 0.0.1
 - Imagine
 - Options
 - Prepare
+- Propose
 ## Prototype
 - Develop
 - Build
@@ -40,6 +41,7 @@ version: 0.0.1
 - Analyze
 - Test
 ## Scale
+- Adopt
 - Backlog
 - Coordination
 - Deploy

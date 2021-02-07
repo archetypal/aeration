@@ -1,41 +1,24 @@
 ---
-description: Resource markdown template
-maturity: Strawman
-content_type: Specification
-author: Sean Drucker
-audience: 
-- Everyone
+description: Resource....
+maturity: strawman
+content_type: note
+author: 
+- Your Name Here
+audience:
+- everyone
+- everything
 version: 0.0.1
 ---
 
-# Template
-*[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} for {{ page.audience }} by {{ page.author }} v{{ page.version }}*
+# Title
+A *[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} for {{ page.audience }} by {{ page.author }} v{{ page.version }}*
 
-Markdown files that describe a resource have a YAML header, a title, and content.
+**{{page.description}}**
 
-## YAML Header (Front Matter)
+## TL;DR
 
-```yaml
----
-description: Resource markdown template
-maturity: Draft
-content_type: Specification
-author: Sean Drucker
-audience: 
-- Organization
-version: 0.0.1
----
-```
+Brief description...
 
-## Title
-
-The first header should be the title of the resource.
-
-## Content
-
-Content can have any number of sections, but may have the following top level sections: 
-
-```markdown
 # References
+
 - [Example](http://example.com)
-```

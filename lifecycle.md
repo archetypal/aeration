@@ -18,7 +18,7 @@ The maturity levels of a resource are:
 - [Draft](#draft)
 - [Proposed](#proposed)
 - [Recommended](#recommended)
-- [Retired]($retired)
+- [Retired](#retired)
 
 
 ## Strawman

@@ -13,3 +13,23 @@ titles_from_headings:
   enabled:     true
   strip_title: false
   collections: false
+
+#
+# Just the docs settings
+#
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Aeration on GitHub":
+    - "//github.com/archetypal/aeration"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: Edit this page on GitHub
+gh_edit_repository: "https://github.com/archetypal/aeration"
+gh_edit_branch: main
+ # "tree" or "edit" if you want the user to jump into the editor immediately
+gh_edit_view_mode: edit

@@ -3,9 +3,6 @@ description: A framework for resource innovation and adoption.
 theme: jekyll-theme-midnight
 markdown: GFM
 
-plugins:
-  - jekyll-relative-links
-
 relative_links:
   enabled: true
   collections: true

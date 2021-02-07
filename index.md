@@ -1,5 +1,4 @@
 ---
-title: Aeration
 description: A framework for resource innovation and adoption.
 ---
 

@@ -1,12 +1,14 @@
 ---
 description: Words to describe the innovation lifecycle
-version: 0.0.1
+content_type: Concept
 author: Sean Drucker
 maturity: Strawman
+version: 0.0.1
 ---
 
 # Innovation Lifecycle
-*Version {{ page.version }} [{{ page.maturity }}](lifecycle.md#{{ page.maturity }}) by {{ page.author }}*
+*{{ page.content_type }} by {{ page.author }}*
+*[{{ page.maturity }}](lifecycle.md#{{ page.maturity }}) Version {{ page.version }}*
 
 ## Explore
 - Thematic Areas

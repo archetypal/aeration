@@ -1,20 +1,13 @@
 ---
-description: Definition of a resource
-maturity: strawman
-category: concept
+description: Resource
+maturity: Strawman
+content_type: Concept
 author: Sean Drucker
-audience:
-- everyone
-- everything
 version: 0.0.1
 ---
 
 # Resource
-<sup><i>
-  A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.category }} 
-  for {{ page.audience | array_to_sentence_string }} 
-  by {{ page.author | array_to_sentence_string }} v{{ page.version }}
-</i></sup>
+*[{{ page.maturity }}](lifecycle.md#{{ page.maturity }}) {{ page.content_type }} by {{ page.author }} v{{ page.version }}*
 
 ## TL;DR
 

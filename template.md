@@ -1,7 +1,7 @@
 ---
-description: Resource....
+description: Resource description
 maturity: strawman
-content_type: note
+category: best practice
 author: 
 - Your Name Here
 audience:
@@ -11,9 +11,13 @@ version: 0.0.1
 ---
 
 # Title
-A *[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} for {{ page.audience }} by {{ page.author }} v{{ page.version }}*
+<sup><i>
+  A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.category }} 
+  for {{ page.audience | array_to_sentence_string }} 
+  by {{ page.author | array_to_sentence_string }} v{{ page.version }}
+</i></sup>
 
-**{{page.description}}**
+{{page.description}}
 
 ## TL;DR
 

@@ -10,7 +10,7 @@ audience:
 version: 0.0.1
 ---
 
-# Resource Markdown
+# Resource Markdown Specification
 <sup><i>
   A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.category }} 
   for {{ page.audience | array_to_sentence_string }} 
@@ -29,7 +29,7 @@ Resources are described in a markdown file.  A simple way to create a new resour
 ---
 description: Resource markdown template
 maturity: strawman
-content_type: specification
+category: specification
 author: Sean Drucker
 audience: 
 - everyone

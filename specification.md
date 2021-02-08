@@ -1,7 +1,7 @@
 ---
 description: Specification for describing a resource in a markdown file.
 maturity: strawman
-content_type: specification
+category: specification
 author: 
 - Sean Drucker
 audience:
@@ -11,11 +11,11 @@ version: 0.0.1
 ---
 
 # Resource Markdown
-<sup>
-  A *[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} 
+<sup><i>
+  A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.category }} 
   for {{ page.audience | array_to_sentence_string }} 
-  by {{ page.author | array_to_sentence_string }} v{{ page.version }}*
-</sup>
+  by {{ page.author | array_to_sentence_string }} v{{ page.version }}
+</i></sup>
 
 {{page.description}}
 

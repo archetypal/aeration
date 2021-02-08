@@ -39,20 +39,20 @@ titles_from_headings:
 heading_anchors: true
 
 # Left Navigation
-nav:
-  - title: Home
-    url: /
-  - title: What is a Resource
-    url: /resource/
-  - title: The Resource Life Cycle
-    url: /lifecycle/
-  - title: Innovation Best Practice
-    url: /innovation/
-  - title: Resource Authoring
-    nav:
-      - title: Markdown Specification
-        url: /specification/
-      - title: Resource Template
-        url: /template/
-      - title: Notes
-        url: /notes/
+# nav:
+# - title: Home
+#   url: /
+# - title: What is a Resource
+#   url: /resource/
+# - title: The Resource Life Cycle
+#   url: /lifecycle/
+# - title: Innovation Best Practice
+#   url: /innovation/
+# - title: Resource Authoring
+#   nav:
+#   - title: Markdown Specification
+#     url: /specification/
+#   - title: Resource Template
+#     url: /template/
+#   - title: Notes
+#     url: /notes/

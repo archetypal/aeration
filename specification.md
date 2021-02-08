@@ -11,9 +11,9 @@ version: 0.0.1
 ---
 
 # Resource Markdown File Specification
-A *[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} for {{ page.audience }} by {{ page.author }} v{{ page.version }}*
+<sup>A *[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} for {{ page.audience }} by {{ page.author }} v{{ page.version }}*</sup>
 
-**{{page.description}}**
+{{page.description}}
 
 ## TL;DR
 
@@ -35,7 +35,7 @@ version: 0.0.1
 
 # Title
 {% raw %}
-*[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} for {{ page.audience }} by {{ page.author }} v{{ page.version }}*
+<sup>A *[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} for {{ page.audience }} by {{ page.author }} v{{ page.version }}*</sup>
 
 {{page.description}}
 {% endraw %}

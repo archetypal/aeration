@@ -23,4 +23,4 @@ version: 0.0.1
 
 Aeration is a framework for [resource](resource.md) [innovation](innovation.md) and [adoption](lifecycle.md).  The [template](template.md) may be used to create new resource descriptions.
 
-To add new resource definitions to the navigation menu, update the _config.yml file.
+To add new resource definitions to the navigation menu, update the _config.yml file in the root directory.

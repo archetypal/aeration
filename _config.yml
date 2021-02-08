@@ -42,7 +42,7 @@ heading_anchors: true
 nav:
   - title: Home
     url: /
-  - title: What is a Resource?
+  - title: What is a Resource
     url: /resource/
   - title: The Resource Life Cycle
     url: /lifecycle/

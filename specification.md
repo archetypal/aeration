@@ -10,8 +10,12 @@ audience:
 version: 0.0.1
 ---
 
-# Resource Markdown File Specification
-<sup>A *[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} for {{ page.audience }} by {{ page.author }} v{{ page.version }}*</sup>
+# Resource Markdown
+<sup>
+  A *[{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.content_type }} 
+  for {{ page.audience | array_to_sentence_string }} 
+  by {{ page.author | array_to_sentence_string }} v{{ page.version }}*
+</sup>
 
 {{page.description}}
 

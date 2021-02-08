@@ -42,13 +42,13 @@ heading_anchors: true
 nav:
   - title: Home
     url: /
-  - title: Resource Definition
+  - title: What is a Resource?
     url: /resource/
-  - title: Resource Life Cycle
+  - title: The Resource Life Cycle
     url: /lifecycle/
-  - title: Innovation
+  - title: Innovation Best Practice
     url: /innovation/
-  - title: Creating Resources
+  - title: Resource Authoring
     nav:
       - title: Markdown Specification
         url: /specification/

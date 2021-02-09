@@ -1,13 +1,23 @@
 ---
-description: Words to describe the innovation lifecycle
-maturity: Strawman
-content_type: Concept
-author: Sean Drucker
+description: Description of the innovation lifecycle
+maturity: strawman
+category: concept
+audience:
+- everyone
+author: 
+- Sean Drucker
 version: 0.0.1
 ---
 
 # Innovation Lifecycle
-*[{{ page.maturity }}](lifecycle.md#{{ page.maturity }}) {{ page.content_type }} by {{ page.author }} v{{ page.version }}*
+<sup><i>
+  A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) 
+  [{{ page.category }}](/category.md#{{ page.category }}) 
+  for {{ page.audience | array_to_sentence_string }} 
+  by {{ page.author | array_to_sentence_string }} v{{ page.version }}
+</i></sup>
+
+{{page.description}}
 
 ## Explore
 - Thematic Areas

@@ -7,6 +7,8 @@ nav:
   path: /resource/
 - title: The Resource Life Cycle
   path: /lifecycle/
+- title: Resource Category
+  path: /category/
 - title: Innovation Best Practice
   path: /innovation/
 - title: Resource Authoring

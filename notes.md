@@ -2,17 +2,18 @@
 description: Aeration notes
 maturity: strawman
 category: note
-author: 
-- Sean Drucker
 audience:
 - everyone
 - everything
+author: 
+- Sean Drucker
 version: 0.0.1
 ---
 
 # Notes
 <sup><i>
-  A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) {{ page.category }} 
+  A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) 
+  [{{ page.category }}](/category.md#{{ page.category }}) 
   for {{ page.audience | array_to_sentence_string }} 
   by {{ page.author | array_to_sentence_string }} v{{ page.version }}
 </i></sup>

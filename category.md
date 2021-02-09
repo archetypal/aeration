@@ -1,16 +1,16 @@
 ---
-description: Resource template
+description: Resource categories
 maturity: strawman
-category: specification
+category: concept
 audience:
 - everyone
 - everything
 author:
-- Jane Doe
+- Sean Drucker
 version: 0.0.1
 ---
 
-# Title
+# Resource Category
 <sup><i>
   A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) 
   [{{ page.category }}](/category.md#{{ page.category }}) 
@@ -20,10 +20,18 @@ version: 0.0.1
 
 {{page.description}}
 
-## TL;DR
+## Best Practice
 
-Brief description...
+The resource describes a best practice.
 
-# References
+## Concept
 
-- [Example](http://example.com)
+The resource defines a concept.
+
+## Note
+
+The resource is an informational note.
+
+## Specification
+
+The resource is a specification.

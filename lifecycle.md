@@ -1,13 +1,23 @@
 ---
 description: Method of resource innovation, recomendation and adoption. 
-content_type: Practice
-author: Sean Drucker
-maturity: Strawman
+maturity: strawman
+category: best practice
+audience:
+- everyone
+author: 
+- Sean Drucker
 version: 0.0.1
 ---
 
 # Resource Innovation Life Cycle
-*[{{ page.maturity }}](lifecycle.md#{{ page.maturity }}) {{ page.content_type }} by {{ page.author }} v{{ page.version }}*
+<sup><i>
+  A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) 
+  [{{ page.category }}](/category.md#{{ page.category }}) 
+  for {{ page.audience | array_to_sentence_string }} 
+  by {{ page.author | array_to_sentence_string }} v{{ page.version }}
+</i></sup>
+
+{{page.description}}
 
 ## TL;DR
 

@@ -20,17 +20,22 @@ version: 0.0.1
 {{page.description}}
 
 ## Explore
+
 - Thematic Areas
 - Opportunity Spaces
 - Objective Driver Opportunities
+
 ## Discover
+
 - Collect
 - Incept
 - Listen
 - Observe
 - Research
 - Understand
+
 ## Shape
+
 - Architect
 - Candidates
 - Conceptualize
@@ -42,15 +47,21 @@ version: 0.0.1
 - Options
 - Prepare
 - Propose
+
 ## Prototype
+
 - Develop
 - Build
 - Mockup
 - Refine
+
 ## Validate
+
 - Analyze
 - Test
+
 ## Scale
+
 - Adopt
 - Backlog
 - Coordination
@@ -61,9 +72,11 @@ version: 0.0.1
 - Launch
 - Operate
 - Support
+
 ## Retire
+
 - Deprecate
 
-
 # References
+
 - [Chick-fil-A Food Innovation](https://www.businessinsider.com/chick-fil-a-new-menu-items-2019-5#5-launchroll-out-and-stewardship-5)

@@ -6,7 +6,7 @@ audience:
 - everyone
 author: 
 - Sean Drucker
-version: 0.0.1
+version: 0.0.3
 ---
 
 # Innovation Lifecycle
@@ -23,7 +23,8 @@ version: 0.0.1
 
 - Thematic Areas
 - Opportunity Spaces
-- Objective Driver Opportunities
+- Short Term Objectives
+- Long Term Drivers
 
 ## Discover
 

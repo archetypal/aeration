@@ -3,7 +3,7 @@
 nav:
 - title: Home
   path: /
-- title: What is a Resource
+- title: What is a Resource?
   path: /resource/
 - title: The Resource Life Cycle
   path: /lifecycle/

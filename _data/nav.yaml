@@ -1,0 +1,19 @@
+# Need to use actual http path, not the path to the actual file.
+# This is a limitation of Jekyll 3.9.  See archetypal just-the-docs _includes/nav.html for more info.
+nav:
+- title: Home
+  path: /
+- title: What is a Resource
+  path: /resource/
+- title: The Resource Life Cycle
+  path: /lifecycle/
+- title: Innovation Best Practice
+  path: /innovation/
+- title: Resource Authoring
+  nav:
+  - title: Markdown Specification
+    path: /specification/
+  - title: Resource Template
+    path: /template/
+  - title: Notes
+    path: /notes/

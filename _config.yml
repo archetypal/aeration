@@ -29,8 +29,8 @@ relative_links:
   enabled: true
   collections: true
 
-#remote_theme: archetypal/just-the-docs@v0.4.0
-remote_theme: archetypal/just-the-docs
+remote_theme: archetypal/just-the-docs@v0.5.0
+#remote_theme: archetypal/just-the-docs
 
 titles_from_headings:
   enabled:     true

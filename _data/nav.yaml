@@ -4,7 +4,7 @@
 #  url: / -- url with leading / - url takes precdence over path
 #  path: index.md -- file path, without leading /
 #  title: override page title or provide navigation title for children
-nav:
+pages:
 - title: Home
   path: index.md
 - title: What is a Resource?
@@ -13,7 +13,7 @@ nav:
 - path: category.md
 - path: innovation.md
 - title: Resource Authoring
-  nav:
+  pages:
   - title: Markdown Specification
     url: /specification/
   - title: Resource Template

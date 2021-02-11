@@ -9,7 +9,7 @@ author:
 version: 0.0.3
 ---
 
-# Innovation Lifecycle
+# Innovation Life Cycle
 <sup><i>
   A [{{ page.maturity }}](/lifecycle.md#{{ page.maturity }}) 
   [{{ page.category }}](/category.md#{{ page.category }}) 

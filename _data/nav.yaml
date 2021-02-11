@@ -1,21 +1,21 @@
-# Need to use actual http path, not the path to the actual file.
-# This is a limitation of Jekyll 3.9.  See archetypal just-the-docs _includes/nav.html for more info.
+# Navigation specification
+#
+# pages:
+#  url: / -- url with leading / - url takes precdence over path
+#  path: index.md -- file path, without leading /
+#  title: override page title or provide navigation title for children
 nav:
 - title: Home
-  path: /
+  path: index.md
 - title: What is a Resource?
-  path: /resource/
-- title: The Resource Life Cycle
-  path: /lifecycle/
-- title: Resource Category
-  path: /category/
-- title: Innovation Life Cycle
-  path: /innovation/
+  path: resource.md
+- path: lifecycle.md
+- path: category.md
+- path: innovation.md
 - title: Resource Authoring
   nav:
   - title: Markdown Specification
-    path: /specification/
+    url: /specification/
   - title: Resource Template
     path: /template/
-  - title: Notes
-    path: /notes/
+  - path: notes.md

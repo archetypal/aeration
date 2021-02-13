@@ -15,7 +15,7 @@ pages:
 - title: Resource Authoring
   pages:
   - title: Markdown Specification
-    url: /specification/
+    path: specification.md
   - title: Resource Template
     path: /template/
   - path: notes.md

@@ -1,4 +1,5 @@
 ---
+layout: default
 description: A framework for resource innovation and adoption.
 maturity: strawman
 category: best practice

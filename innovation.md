@@ -21,23 +21,29 @@ version: 0.0.3
 
 ## Explore
 
-- Thematic Areas
+- Long Term Drivers
 - Opportunity Spaces
 - Short Term Objectives
-- Long Term Drivers
+- Thematic Areas
 
 ## Discover
 
+- Capture
 - Collect
+- Identify
 - Incept
+- Initiate
 - Listen
 - Observe
+- Record
 - Research
 - Understand
 
 ## Shape
 
 - Architect
+- Adequacy
+- Bracketing
 - Candidates
 - Conceptualize
 - Define
@@ -45,21 +51,29 @@ version: 0.0.3
 - Evaluate
 - Ideate
 - Imagine
+- Impact
+- Investigate
 - Options
 - Prepare
 - Propose
 
 ## Prototype
 
-- Develop
 - Build
+- Develop
 - Mockup
+- Redesign
 - Refine
+- Revise
+- Rework
 
 ## Validate
 
-- Analyze
+- Correct
+- Exception
+- Resolve
 - Test
+- Verify
 
 ## Scale
 
@@ -67,16 +81,30 @@ version: 0.0.3
 - Backlog
 - Coordination
 - Deploy
-- Release
+- Effectiveness
 - Enhance
+- Implement
 - Iterate
 - Launch
 - Operate
+- Recall
+- Release
 - Support
+- Tracking
+- Trending
 
 ## Retire
 
 - Deprecate
+
+# All
+
+- Analyze
+- Approve
+- Appropriate
+- Goal
+- Risk
+
 
 # References
 

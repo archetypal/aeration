@@ -25,3 +25,15 @@ The word *practice* is used instead of *process* to emphasize that the practice 
 
 ## Guideling vs Standard
 The word *guideline* is used instaed of *standard* to emphasize that the guideline is evolving over time and is not set in stone.
+
+## Where do these fit in?
+- Organizationl Structure
+- Policy - this whole framework is an attempt to give insight on policy but not prescribe it.
+- Procedure - no distinction between Practice
+
+## Usage by Teams
+
+Teams may note the following regarding usage (or non usage) of resources
+- Noncomformity
+- Potential noncomformity
+- Deviation

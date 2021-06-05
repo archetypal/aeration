@@ -69,6 +69,9 @@ version: 0.0.3
 
 ## Validate
 
+- Accurate
+- Complete
+- Consistent
 - Correct
 - Exception
 - Resolve
@@ -104,6 +107,14 @@ version: 0.0.3
 - Appropriate
 - Goal
 - Risk
+
+
+# Does not answer
+- Who
+- What
+- When
+- Why
+- How
 
 
 # References
